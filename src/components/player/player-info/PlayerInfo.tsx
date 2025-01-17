@@ -146,7 +146,7 @@ function PlayerInfo({ infoRef, player, onEcashClick }: PlayerInfoProps) {
           className="btn gh"
         >
           <GithubIcon />
-          <span>Find me in Github</span>
+          <span>Find me in GitHub</span>
         </button>
         {/* <button
           onClick={() => window.open("https://www.buymeacoffee.com/kiranv")}
